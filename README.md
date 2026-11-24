@@ -1,2 +1,2 @@
 # CRM_CW
-this repo contain the notebook csv files 
+this ZIP file contains the notebook file and the related csv files.
